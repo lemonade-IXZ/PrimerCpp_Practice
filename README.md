@@ -7,6 +7,8 @@ VS如何创建git仓库：https://learn.microsoft.com/zh-cn/visualstudio/version
 
 readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+--
+
 进度：练习1.3未开始/全19章；2024.3.24；
 
 待办：
@@ -23,5 +25,15 @@ readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started
 
 【解答】:
 
+参考：
+
 演练：在命令行上编译本机 C++ 程序：https://learn.microsoft.com/zh-cn/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170
+
+Windows 用户需要知道的 CMD 常用命令总结：https://zhuanlan.zhihu.com/p/67513308
+
+--
+
+打开“开发人员命令提示”；
+
+切换目录，进入指定文件夹（自己专门存放代码的文件夹）；
 

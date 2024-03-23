@@ -7,6 +7,8 @@ VS如何创建git仓库：https://learn.microsoft.com/zh-cn/visualstudio/version
 
 readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+另外一种学习之路：Microsoft C++、C 和汇编程序文档：https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170
+
 --
 
 进度：练习1.3未开始/全19章；2024.3.24；

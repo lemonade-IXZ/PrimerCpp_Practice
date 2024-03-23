@@ -23,7 +23,5 @@ readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started
 
 【解答】:
 
-打开VS，新建控制台项目，编写程序，开始执行；
-
 演练：在命令行上编译本机 C++ 程序：https://learn.microsoft.com/zh-cn/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170
 

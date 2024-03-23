@@ -1,9 +1,9 @@
 # 说明
-记录学习过程；
+记录个人学习过程；
 
-参考PrimerC++第五版及配套习题解答；使用Visual Studio；
+参考PrimerC++第五版及配套习题解答；使用Visual Studio 2022；
 
-VS如何创建git仓库：https://learn.microsoft.com/zh-cn/visualstudio/version-control/git-create-repository?view=vs-2022#create-a-github-repo；
+VS如何创建git仓库：https://learn.microsoft.com/zh-cn/visualstudio/version-control/git-create-repository?view=vs-2022#create-a-github-repo
 
 readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -20,3 +20,10 @@ readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started
 ## 1.1节练习
 
 练习1.1： 查阅你使用的编译器的文档，确定它所使用的命名约定。编译并运行第2页的main程序。
+
+【解答】:
+
+打开VS，新建控制台项目，编写程序，开始执行；
+
+演练：在命令行上编译本机 C++ 程序：https://learn.microsoft.com/zh-cn/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170
+

@@ -3,13 +3,15 @@
 
 参考PrimerC++第五版及配套习题解答；使用Visual Studio；
 
+VS如何创建git仓库：https://learn.microsoft.com/zh-cn/visualstudio/version-control/git-create-repository?view=vs-2022#create-a-github-repo；
+
 readme文档基本撰写和格式语法：https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 进度：练习1.3未开始/全19章；2024.3.24；
 
 待办：
 
-1.如何创建git仓库；
+1.补充1.1节练习的解答；
 
 待续；
 

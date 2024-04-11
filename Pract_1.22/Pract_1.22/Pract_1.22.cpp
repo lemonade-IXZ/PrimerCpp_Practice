@@ -7,19 +7,25 @@
 int main()
 {
     Sales_item bookori, book1, bookall;
-    std::cout << "请输入ISBN相同的销售记录：" << std::endl;
-    std::cin >> bookori;
-    bookall = bookori;
-    while (std::cin >> book1) {
-        if (compareIsbn(bookori, book1)) {
-            bookall += book1;
+    std::cout << "请输入几条ISBN相同的销售记录：" << std::endl;
+    if (std::cin >> bookori) {
+        bookall = bookori;
+        while (std::cin >> book1) {
+            if (compareIsbn(bookori, book1)) { //ISBN相同
+                bookall += book1;
+            }
+            else { //ISBN不同
+                std::cout << "输入的销售记录ISBN不同。\n" << "保存的销售记录为：" << bookall << std::endl;
+                return -1;
+            }
         }
-        else {
-            std::cout << "输入的销售记录ISBN不同。\n" << "保存的销售记录为：" << bookall << std::endl;
-        }
+        std::cout << "保存的销售记录为：" << bookall << std::endl;
     }
-    std::cout << "保存的销售记录为：" << bookall << std::endl;
-
+    else { //意料之外的输入or其他情况
+        std::cout << "没有销售记录。" << std::endl;
+        return -1;
+    }
+    
     return 0;
 }
 
